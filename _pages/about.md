@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Fudan University</a>. Pudong District, Shanghai
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>No 720</p>
-    <p>Fudan University International Innovation Center 825 Zhangheng Road</p>
+    <p> International Innovation Center 825 Zhangheng Road</p>
     <p> Pudong District, Shanghai</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,7 +29,9 @@ latest_posts:
 
 ## About Me
 
-I am a Professor at [the Artificial Intelligence Innovation and Incubation Institute (AI³)](https://ai3.fudan.edu.cn/) at Fudan University and an AI Scientist at the Shanghai Academy of AI for Science ([SAIS](https://www.sais.com.cn/)). Prior to my current roles, I gained extensive industry experience serving as the Head of Post-Training at Infinity, as well as holding researcher positions at Ant Group and ByteDance. In 2018, I was a postdoctoral fellow at the Technion – Israel Institute of Technology, hosted by Prof. [Shie Mannor](https://dds.technion.ac.il/people/courtesy-faculty-members/shie-mannor/). I received my Ph.D. degree from the National University of Singapore (NUS) in 2017, advised by Prof. Huan Xu. During my doctoral studies, I also spent a year (2016-2017) as a visiting scholar at the H. Milton Stewart School of Industrial and Systems Engineering (ISyE) at Georgia Tech.
+I am a Professor at the [Artificial Intelligence Innovation and Incubation Institute (AI³)](https://ai3.fudan.edu.cn/) at Fudan University and an AI Scientist at the Shanghai Academy of AI for Science ([SAIS](https://www.sais.com.cn/)). 
+
+Prior to my current roles, I gained extensive industry experience serving as the Head of Post-Training at Infinity, as well as holding researcher positions at Ant Group and ByteDance. In 2018, I was a postdoctoral fellow at the Technion – Israel Institute of Technology, hosted by Prof. [Shie Mannor](https://dds.technion.ac.il/people/courtesy-faculty-members/shie-mannor/). I received my Ph.D. degree from the National University of Singapore (NUS) in 2017, advised by Prof. Huan Xu. During my doctoral studies, I also spent a year (2016-2017) as a visiting scholar at the H. Milton Stewart School of Industrial and Systems Engineering (ISyE) at Georgia Tech.
 
 ---
 
